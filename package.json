@@ -1,0 +1,17 @@
+{
+  "name": "sui_agent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@getnimbus/sui-agent-kit": "^0.1.25",
+    "dotenv": "^17.2.3",
+    "openai": "^6.7.0"
+  }
+}
